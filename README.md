@@ -15,16 +15,6 @@ The main components are:
 - **Transformer Interaction**: Transformer-based interaction with dynamic kernels.
 - **KID-FFN**: Kernel-Interaction Dynamic Feed-Forward Network with 5x5 dynamic kernels and 16 interacting kernels in the DKI-Net configuration.
 
-## Requirements
-
-The implementation uses Python and PyTorch. The main dependencies include:
-
-```bash
-pip install torch torchvision timm einops scikit-image opencv-python matplotlib scipy tensorboardX tqdm pillow
-```
-
-The torchvision ResNet-34 ImageNet weights are downloaded automatically on the first model initialization.
-
 ## Dataset
 
 The current data loader expects the SECOND dataset in the following structure:
