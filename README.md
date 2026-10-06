@@ -95,11 +95,3 @@ DKI-Net/
 
 If you find this work useful, please cite:
 
-```bibtex
-@article{zhang2026dkinet,
-  title   = {DKI-Net: Dynamic Kernel-Interaction Network for Semantic Change Detection in Remote Sensing Images},
-  author  = {Zhang, Lili and Lv, Weidong and Wang, Gaoxu and Shi, Rui and Zhang, Xuejie},
-  journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-  year    = {2026}
-}
-```
