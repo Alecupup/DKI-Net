@@ -6,6 +6,8 @@ DKI-Net is designed for semantic change detection in bi-temporal remote sensing 
 
 ## Architecture
 
+![DKI-Net architecture](Architecture.png)
+
 The main components are:
 
 - **DBCFE**: Dual-scale Bidirectional Context Feature Enhancement for high- and low-level feature fusion.
