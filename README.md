@@ -94,8 +94,10 @@ DKI-Net/
 ## Citation
 
 If you find this work useful, please cite:
+```text
 L. Zhang, W. Lv, G. Wang, R. Shi, and X. Zhang,
 “DKI-Net: Dynamic Kernel-Interaction Network for Semantic Change Detection in Remote Sensing Images,”
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,
 accepted for publication, 2026.
+```
 
